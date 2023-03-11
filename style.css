@@ -53,7 +53,7 @@ li{
 
 
 header{
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.5)), url("img/hero_img.jpg");
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.5)), url("img/Hero_img.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
